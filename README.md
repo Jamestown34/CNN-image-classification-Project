@@ -1,0 +1,1 @@
+I'm thrilled to share my latest project focused on image classification using the CIFAR-10 dataset. This dataset is well-known for its diverse set of 60,000 32x32 color images across 10 different classes, including airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Here’s a deep dive into the project:
